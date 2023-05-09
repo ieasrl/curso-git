@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+Curso de Git para aprender la herramienta
+=======
+# Gracias Pancho
+>>>>>>> 95f282756beeca448063973654d34d932139e702
+-------
+Mi token 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
